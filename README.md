@@ -1,5 +1,7 @@
 ## mwl-api-x
 
+![image](https://i.ibb.co/7Nxzm0Bj/waifu.webp)
+
 A Node wrapper for [MyWaifuList](https://mywaifulist.moe/).
 
 ### Install:
